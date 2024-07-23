@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- About Me -->
 ### About Me 🧑‍💻
-- 🔭 I’m currently working on **[Routing]**
+- 🔭 I’m currently working on **Routing**
 - 🌱 I’m currently learning **Networking, Cybersecurity, and Web development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Networking, Linux, and Python**
