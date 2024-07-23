@@ -11,7 +11,7 @@ Ochieng-001/Ochieng-001 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!-- Header -->
-<h1 align="center">Hello, I'm [Ochieng] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Ochieng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Computer Science student and Networking enthusiast</h3>
 
 <!-- Social Links -->
@@ -77,8 +77,8 @@ You can click the Preview link to take a look at your changes.
 - 
 <!-- Blog Posts -->
 ### Blog Posts ✍️
-- [Understanding network security ](https://ochieng.cloud/blog)
-- [The future of networking ](https://ochieng.cloud/blog)
+- [Understanding network security ](https://ochieng.cloud)
+- [The future of networking ](https://ochieng.cloud#blog)
 
 <!-- Contact Me -->
 ### Contact Me ☎️
@@ -94,10 +94,12 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ochieng-001.visitor-badge" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ochieng-001.visitor-badge" alt="visitor badge"/>
 </p>
+
 
 
 *Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub](https://github.com/)*
