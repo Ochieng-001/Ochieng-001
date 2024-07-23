@@ -74,10 +74,10 @@ You can click the Preview link to take a look at your changes.
 ### Projects 🚀
 - [My Projects](https://github.com/Ochieng-001): here's the link to all my projects or you can visit my website at https://ochieng.cloud and to view my certifications.
 
-- 
+
 <!-- Blog Posts -->
 ### Blog Posts ✍️
-- [Understanding network security ](https://ochieng.cloud)
+- [Understanding network security ](https://ochieng.cloud#blog)
 - [The future of networking ](https://ochieng.cloud#blog)
 
 <!-- Contact Me -->
@@ -97,7 +97,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ochieng-001.visitor-badge" alt="visitor badge"/>
+  <a href="https://github.com/ochieng-001" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ochieng-001&style=flat-square&color=blue" alt="visitor badge"/>
+  </a>
 </p>
 
 
