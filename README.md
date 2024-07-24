@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Projects -->
 ### Projects 🚀
-- [My Projects](https://github.com/Ochieng-001): here's the link to all my projects or you can visit my website at https://ochieng.cloud and to view my certifications.
+- [My Projects](https://github.com/Ochieng-001): here's the link to all my projects or you can visit my [website](https://ochieng.cloud) to view my certifications.
 
 
 <!-- Blog Posts -->
@@ -96,7 +96,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=ochieng-001&style=flat-square&color=blue" alt="visitor badge"/>
   </a>
 </p>
-
-
-
-*Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub](https://github.com/)*
