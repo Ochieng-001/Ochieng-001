@@ -70,6 +70,15 @@ You can click the Preview link to take a look at your changes.
 - [My Projects](https://github.com/Ochieng-001): here's the link to all my projects or you can visit my [website](https://ochieng.cloud) to view my certifications.
 
 
+
+## 📅 Latest Activity
+<!--START_SECTION:activity-->
+1. 🎉 Created a new repository [Ochieng-001/face-detection](https://github.com/Ochieng-001/face-detection)
+2. 🔧 Updated project [Me](https://github.com/Ochieng-001/ochieng)
+3. 📝 Added a new blog post [The Future of Networking](https://ochieng.cloud#blog)
+<!--END_SECTION:activity-->
+
+
 <!-- Blog Posts -->
 ### Blog Posts ✍️
 - [Understanding network security ](https://ochieng.cloud#blog)
