@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!-- About Me -->
 ### About Me 🧑‍💻
 - 🔭 I’m currently working on **Routing**
-- 🌱 I’m currently learning **Networking, Cybersecurity, and Web development**
+- 🌱 I’m currently learning **Networking, Cybersecurity, and Linux**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Networking, Linux, and Python**
 - 📫 How to reach me **ochiengpaul654@gmail.com**
@@ -41,13 +41,8 @@ You can click the Preview link to take a look at your changes.
 ### Skills 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Networking-0078D4?style=flat-square&logo=Cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
