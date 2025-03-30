@@ -1,7 +1,7 @@
 <!---
-ojiambo/ojiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ochieng-001/Ochieng-001is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----><!-- Header --><h1 align="center">Hello, I'm Ojiambo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+---><!-- Header --><h1 align="center">Hello, I'm Ochieng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🚀 Blockchain Developer | Networking Expert | Open Source Contributor</h3><!-- Social Links --><p align="center">
   <a href="https://www.linkedin.com/in/paul-ochieng-924a94315" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p><!-- Dynamic Content --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;AI+&+Web3+Enthusiast;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer; Blockchain Developer+&+Web3+Enthusiast;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
 </p><!-- About Me -->About Me 🧑‍💻
 
 🔭 I’m currently working on Blockchain, Smart Contracts & AI-driven Web3 Solutions
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 👯 I’m looking to collaborate on Web3, AI-integrated Blockchain Projects, and Open Source
 
-💬 Ask me about Blockchain, AI, Networking, and Linux
+💬 Ask me about Blockchain, Networking, and Linux
 
 📫 How to reach me ochiengpaul654@gmail.com
 
@@ -99,4 +99,7 @@ The Future of Decentralized Finance
   <a href="https://github.com/Ochieng-001" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Ochieng-001&style=flat-square&color=blue" alt="visitor badge"/>
   </a>
+  <p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ochieng-001&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 </p>
