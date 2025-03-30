@@ -109,3 +109,6 @@ The Future of Decentralized Finance
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ochieng-001&theme=dracula" alt="GitHub Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ochieng-001&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
