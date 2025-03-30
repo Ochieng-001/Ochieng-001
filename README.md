@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p><!-- Dynamic Content --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer; Blockchain Developer+&+Web3+Enthusiast;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;&+Web3+Enthusiast;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
 </p><!-- About Me -->About Me 🧑‍💻
 
 🔭 I’m currently working on Blockchain, Smart Contracts & AI-driven Web3 Solutions
@@ -99,7 +99,7 @@ The Future of Decentralized Finance
   <a href="https://github.com/Ochieng-001" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Ochieng-001&style=flat-square&color=blue" alt="visitor badge"/>
   </a>
-  <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ochieng-001&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ochieng-001&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
