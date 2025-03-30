@@ -1,35 +1,35 @@
 <!---
-Ochieng-001/Ochieng-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ojiambo/ojiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---><!-- Header --><h1 align="center">Hello, I'm Ojiambo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Passionate Blockchain Developer and Networking Enthusiast</h3><!-- Social Links --><p align="center">
-  <a href="https://www.linkedin.com/in/ojiambo-924a94315" target="_blank">
+<h3 align="center">🚀 Blockchain Developer | Networking Expert | Open Source Contributor</h3><!-- Social Links --><p align="center">
+  <a href="https://www.linkedin.com/in/paul-ochieng-924a94315" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ojiambo@gmail.com">
+  <a href="mailto:ochiengpaul654@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ojiambo" target="_blank">
+  <a href="https://twitter.com/Ochieng-001" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/ojiambo" target="_blank">
+  <a href="https://github.com/Ochieng-001" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p><!-- Dynamic Content --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;AI+&+Web3+Enthusiast;Networking+Expert;Open+Source+Contributor&center=true&width=500&height=50">
 </p><!-- About Me -->About Me 🧑‍💻
 
-🔭 I’m currently working on Blockchain & Smart Contracts
+🔭 I’m currently working on Blockchain, Smart Contracts & AI-driven Web3 Solutions
 
-🌱 I’m currently learning Decentralized Applications (DApps), Cybersecurity, and Linux
+🌱 I’m currently learning Decentralized Finance (DeFi), AI in Blockchain, and Advanced Cybersecurity
 
-👯 I’m looking to collaborate on Web3 and Open Source Projects
+👯 I’m looking to collaborate on Web3, AI-integrated Blockchain Projects, and Open Source
 
-💬 Ask me about Blockchain, Networking, and Linux
+💬 Ask me about Blockchain, AI, Networking, and Linux
 
-📫 How to reach me ojiambo@gmail.com
+📫 How to reach me ochiengpaul654@gmail.com
 
-⚡ Fun fact: I love exploring cutting-edge technology and solving complex problems
+⚡ Fun fact: I thrive in building next-gen decentralized tech
 
 
 <!-- Skills -->Skills 🚀
@@ -51,44 +51,52 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ochieng-001&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p><!-- Projects -->Projects 🚀
+</p><!-- Featured Projects -->Featured Projects 🚀
 
-My Projects: Here's the link to all my projects or you can visit my website to view my certifications.
+Blockchain DApp - A fully decentralized app leveraging smart contracts.
+
+AI-Powered Trading Bot - Integrating AI with blockchain for automated trading.
+
+Networking Automation - Automating network configurations using Python.
 
 
 📅 Latest Activity
 
-<!--START_SECTION:activity-->1. 🎉 Created a new repository ojiambo/blockchain-dapp
+<!--START_SECTION:activity-->
+1. 🎉 Created a new repository Ochieng-001/blockchain-dapp
 
 
-2. 🔧 Updated project Me
+2. 🚀 Launched AI-Powered Trading Bot
 
 
-3. 📝 Added a new blog post The Future of Blockchain
+3. 📝 Added a new blog post The Future of Blockchain & AI
 
 
 
 <!--END_SECTION:activity--><!-- Blog Posts -->Blog Posts ✍️
 
-Understanding Blockchain Security
+AI Meets Blockchain: The Next Frontier
 
-The Future of Web3
+The Future of Decentralized Finance
 
 
 <!-- Contact Me -->Contact Me ☎️
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ojiambo-924a94315" target="_blank">
+  <a href="https://www.linkedin.com/in/paul-ochieng-924a94315" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ojiambo@gmail.com">
+  <a href="mailto:ochiengpaul654@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/ojiambo" target="_blank">
+  <a href="https://twitter.com/Ochieng-001" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
+</p><!-- Interactive Features --><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ochieng-001&theme=dracula" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ochieng-001&theme=dracula" alt="GitHub Trophies"/>
 </p><!-- Footer --><p align="center">
-  <a href="https://github.com/ojiambo" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ojiambo&style=flat-square&color=blue" alt="visitor badge"/>
+  <a href="https://github.com/Ochieng-001" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Ochieng-001&style=flat-square&color=blue" alt="visitor badge"/>
   </a>
 </p>
